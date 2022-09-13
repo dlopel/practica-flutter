@@ -29,7 +29,7 @@ class AppRoutes {
         name: 'Screen Three'),
     MenuOption(
         route: 'form_screen',
-        screen: const FormScreen(),
+        screen: FormScreen(),
         icon: Icons.adb_rounded,
         name: 'Form Screen')
   ];
